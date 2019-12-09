@@ -7,8 +7,8 @@ public class DBHelper{
     static final String DB_URL = "jdbc:mysql://localhost/lmsdb";
 
     // Database credentials
-    static final String USER = "root";
-    static final String PASS = "G0daVAr1%";
+    static final String USER = "user";
+    static final String PASS = "pass";
 
     static Connection conn = null;
     static Statement stmt = null;
